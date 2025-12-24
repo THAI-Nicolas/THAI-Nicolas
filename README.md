@@ -2,7 +2,7 @@
 
 **Étudiant en BUT MMI (Montbéliard) | Apprenti Développeur Web & Créateur Multimédia**
 
-Je ne suis pas qu'un "codeur". Mon truc, c'est de gérer un projet de l'idée à la mise en ligne : **Design UX/UI, Identité Visuelle, Développement et Communication.** > "Je pilote l'IA (Cursor, Claude, Gemini) pour coder plus vite et me concentrer sur l'expérience utilisateur et l'innovation."
+Étudiant en développement qui se veut polyvalent, capable d’allier code, design, marketing et gestion de projet. Curieux et autodidacte, j’aime explorer de nouvelles choses et mettre ma créativité à travers des projets innovants.
 
 ---
 
@@ -19,24 +19,26 @@ Je ne suis pas qu'un "codeur". Mon truc, c'est de gérer un projet de l'idée à
 
 ### 📂 Projets de Référence
 
-#### 🎮 [Portfolio "Wii Style"](ton-lien-github)
+#### 🎮 [Portfolio "Wii Style"](https://portfolio.nicolas-thai.fr/)
 Inspiré par l'univers Nintendo, j'ai animé mon personnage Mii via **Blender** et **Three.js**.
 * **Tech :** Astro, Tailwind, TypeScript, PocketBase.
 * **Le + :** Une expérience immersive réalisée en 2 mois.
 
-#### 👓 [Configurateur de Lunettes](ton-lien-github)
+#### 👓 [Configurateur de Lunettes](https://tavue.nicolas-thai.fr/)
 Projet scolaire réalisé en **3 jours**. Gestion de l'authentification (Mail/Gmail), panier et sauvegarde de config.
 * **Tech :** Astro, PocketBase, Three.js (léger).
 * **Challenge :** Rapidité d'exécution et intégration de services tiers.
 
-#### 📱 [MySubs - App de Gestion d'abonnements](ton-lien-github)
+#### 📱 [MySubs - App de Gestion d'abonnements](https://my-subs.netlify.app/)
 Gestion de A à Z : Identité visuelle, Landing Page et App mobile (VibeCodée).
 * **Tech :** React Native, Cursor (IA), Figma.
 
 ---
+### 🤖 Mon approche avec l'IA
+J'utilise une approche d'apprentissage augmentée par l'IA générative. En utilisant des outils comme **Cursor** ou **GitHub Copilot** couplés à des LLMs (**Claude 3.5/4, Gemini**), je gagne en autonomie et en rapidité pour débloquer des fonctionnalités complexes tout en approfondissant ma compréhension du code.
 
 ### 🎬 Ma touche "Polyvalente"
 Ancien créateur de contenu, je maîtrise les codes de l'**audiovisuel** et du **storyboarding**. Je cherche un stage où je pourrai apprendre le métier de développeur tout en apportant ma vision créative.
 
-📍 **Disponible pour un stage (Vinci, ADP, Agences créatives...)**
-📫 [nicolas.thai@gmail.com](mailto:nicolas.thai@gmail.com) | [LinkedIn](ton-lien-linkedin)
+📍 **Disponible pour un stage ou une alternance**
+📫 [nicolas.thai06@gmail.com](mailto:nicolas.thai06@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nicolas-thai-21539a294/)
