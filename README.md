@@ -1,16 +1,27 @@
-## Hi there 👋
+# Salut, moi c'est Nicolas 👋
 
-<!--
-**THAI-Nicolas/THAI-Nicolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en 2ème année de **BUT MMI à Montbéliard**, je me définis comme un développeur web polyvalent. J'aime autant structurer un backend avec **PocketBase** que peaufiner une interface avec **Tailwind CSS**.
 
-Here are some ideas to get you started:
+### 🛠 Ce que j'utilise au quotidien
+- **Frontend :** Astro JS (mon framework de prédilection), JavaScript, Tailwind CSS.
+- **Backend & Data :** PocketBase, Supabase, MySQL.
+- **Design & Créatif :** Figma (maquettage), Blender (bases 3D), DaVinci Resolve (montage vidéo).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Mon approche du code
+Je développe de manière **"augmentée"**. J'intègre les outils d'IA (comme Cursor ou Claude) dans mon workflow pour :
+- Accélérer le prototypage de fonctionnalités.
+- M'aider à comprendre des concepts complexes plus rapidement.
+- Optimiser la qualité de mon code.
+
+---
+
+### 📈 "Build in Public" : Mon apprentissage en direct
+*C'est ici que je documente mon parcours. Je ne poste pas seulement des projets finis, mais aussi mes étapes de progression sur mes réseaux.*
+
+- **TikTok / Instagram :** Je partage mes galères de dev et mes découvertes créatives.
+- **Projet phare actuel :** [ASAFRAM](lien-vers-ton-repo) - Plateforme de produits alimentaires étrangers.
+
+---
+
+📍 Basé à Montbéliard / Disponible pour des projets et stages.
+📫 Contact : nicolas.thai@gmail.com
