@@ -1,4 +1,4 @@
-# Salut, moi c'est Nicolas ! 👋 👨‍💻
+# Salut, moi c'est Nicolas ! 
 
 **Étudiant en BUT MMI (Montbéliard) | Apprenti Développeur Web & Créateur Multimédia**
 
