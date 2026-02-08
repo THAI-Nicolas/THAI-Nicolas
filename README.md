@@ -1,6 +1,6 @@
 # Salut, moi c'est Nicolas ! 
 
-**Étudiant en BUT MMI (Montbéliard) | Apprenti Développeur Web & Créateur Multimédia**
+**Étudiant en BUT MMI (Montbéliard) | Développeur Web Fullstack Junior**
 
 Étudiant en développement qui se veut polyvalent, capable d’allier code, design, marketing et gestion de projet. Curieux et autodidacte, j’aime explorer de nouvelles choses et mettre ma créativité à travers des projets innovants.
 
@@ -19,7 +19,7 @@
 
 ### 📂 Projets de Référence
 
-#### 👓 [MMI Art 26](https://expo.mmimontbeliard.com/)
+#### 🎨 [MMI Art 26](https://expo.mmimontbeliard.com/)
 Exposition artistique des étudiants MMI Montbéliard de 2026 : réalisation d'un site responsive, SEO-friendly et accessible. Intégration d'une visite virtuelle 360° sur le site
 * **Tech :** Astro, PocketBase, TailwindCSS Three.js (léger), GSAP, Pannellum, Umami.is. Déploiement sur Netlify (légère baisse des performances)
 
@@ -40,4 +40,4 @@ J'utilise une approche d'apprentissage augmentée par l'IA générative. En util
 Ancien créateur de contenu, je maîtrise les codes de l'**audiovisuel** et des **réseaux sociaux**. Je cherche un stage où je pourrai apprendre le métier de développeur tout en apportant ma vision créative.
 
 📍 **Disponible pour un stage ou une alternance**
-📫 [nicolas.thai06@gmail.com](mailto:nicolas.thai06@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nicolas-thai-21539a294/)
+📫 [nicolas.thai06@gmail.com](mailto:nicolas.thai06@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nicolas-thai-21539a294/) | [Mon Portfolio](https://portfolio.nicolas-thai.fr/)
